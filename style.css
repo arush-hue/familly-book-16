@@ -1,0 +1,24 @@
+.body-background
+{
+    background-color: coral;
+    text-align: center;
+}
+.style
+{
+    font-family: fantasy;
+}
+.b-f
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.font
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#firstImage
+{
+    border-style: solid;
+    border-color: green;
+    padding: 5px;
+    width: 450px;
+}
